@@ -16,7 +16,7 @@ HTTP verbs, conhecidos também como métodos HTTP ou verbos HTTP, são ações q
 
 ## HTTP Status Code
 
-Os códigos de status HTTP (HTTP status codes) são números de três dígitos que indicam o resultado de uma solicitação HTTP entre um cliente (geralmente um navegador web ou um aplicativo) e um servidor. Eles fornecem informações sobre o estado da solicitação e da resposta, ajudando a diagnosticar possíveis problemas durante a comunicação entre cliente e servidor. Os códigos de status são incluídos nas respostas HTTP enviadas pelos servidores para os clientes. Esses códigos de status são essenciais para entender o resultado de uma solicitação HTTP e são regularmente utilizados para depurar problemas em aplicações web.
+Os códigos de status HTTP são números de três dígitos que indicam o resultado de uma solicitação HTTP entre um cliente (geralmente um navegador web ou um aplicativo) e um servidor. Eles fornecem informações sobre o estado da solicitação e da resposta, ajudando a diagnosticar possíveis problemas durante a comunicação entre cliente e servidor. Os códigos de status são incluídos nas respostas HTTP enviadas pelos servidores para os clientes. Esses códigos de status são essenciais para entender o resultado de uma solicitação HTTP e são regularmente utilizados para depurar problemas em aplicações web.
 
 ---
 
